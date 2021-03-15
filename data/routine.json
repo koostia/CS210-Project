@@ -1,0 +1,55 @@
+{
+    "name": "Daily Routine",
+    "Habits": [
+        {
+            "description": "Walk for 15 minutes.",
+            "title": "Walk",
+            "status": true
+        },
+        {
+            "description": "Read for 15 minutes.",
+            "title": "Read",
+            "status": false
+        },
+        {
+            "description": "Exercise for 15 minutes.",
+            "title": "Exercise",
+            "status": false
+        },
+        {
+            "description": "Relax for 15 minutes.",
+            "title": "Relax",
+            "status": false
+        },
+        {
+            "description": "Make sure to eat some fruits.",
+            "title": "Eat Fruits",
+            "status": false
+        },
+        {
+            "description": "Exercise for 15 minutes.",
+            "title": "Exercise",
+            "status": false
+        },
+        {
+            "description": "Make sure to eat some fruits.",
+            "title": "Eat Fruits",
+            "status": false
+        },
+        {
+            "description": "Make sure to eat some fruits.",
+            "title": "Eat Fruits",
+            "status": false
+        },
+        {
+            "description": "Walk for 15 minutes.",
+            "title": "Walk",
+            "status": false
+        },
+        {
+            "description": "Read for 15 minutes.",
+            "title": "Read",
+            "status": false
+        }
+    ]
+}

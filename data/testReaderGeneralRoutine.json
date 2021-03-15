@@ -1,0 +1,15 @@
+{
+    "name": "Daily Routine",
+    "Habits": [
+        {
+            "description": "Lets not eat food high in sugar today!",
+            "title": "No Sugar",
+            "status": true
+        },
+        {
+            "description": "Relax for 15 minutes.",
+            "title": "Relax",
+            "status": false
+        }
+    ]
+}
